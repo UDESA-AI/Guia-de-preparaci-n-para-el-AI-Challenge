@@ -23,7 +23,7 @@ Otras opciones populares de IDE son: [Rider de jetbrains](https://www.jetbrains.
 
 
 ## Discord
-Todas las comunicaciones oficiales así como también el vinculo con los tutores se hará mediante discord. El dia de la competencia te daremos el link al servidor de Discord.
+Todas las comunicaciones oficiales así como también el vinculo con los tutores se hará mediante [discord](https://discord.com/). El dia de la competencia te daremos el link al servidor de Discord.
 
 ## Tutorial C#
 
