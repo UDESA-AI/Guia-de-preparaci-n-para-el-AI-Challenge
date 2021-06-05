@@ -12,7 +12,7 @@ Unity es el motor de simulación que usaremos en la competencia. Para instalar e
 6. En el mismo lugar apretar de "License Management/Manage Licenses", apretar el botón "Activate New License" y elegir una licencia para uso personal (Unity Personal y elegir la opción "I don't use Unity in a professional capacity".
 
 ## IDE/editor de programas
-Para programar tu AI vas a necesitar un entorno de desarrollo integrado (IDE) donde escribirás tu programa:
+Para programar tu AI vas a necesitar un entorno de desarrollo integrado (Integrated Development Environment = IDE) donde escribirás tu programa:
 
 Recomendamos Visual Studio Code por ser liviano y simple:
 1. Descargar [Visual Studio Code](https://visualstudio.microsoft.com/es/) (la opción del medio)
