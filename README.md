@@ -5,11 +5,11 @@
 Unity es el motor de simulación que usaremos en la competencia. Para instalar Unity seguí los siguientes pasos:
 
 1. Descargar [UnityHub](https://unity3d.com/get-unity/download) e instalarlo.
-2. En la pestaña Installs de UnityHub clickear el botón "ADD" y elegir "2018.4.35f1(LTS)" (es muy importante elegir esta versión de Unity).
+2. En la pestaña "Installs" de UnityHub clickear el botón "ADD" y elegir "2018.4.35f1(LTS)" (es muy importante elegir esta versión de Unity).
 3. Elegir NEXT y luego DONE pues no usaremos ningún módulo adicional.
 4. Crear una cuenta [Unity ID](https://id.unity.com/account/new).
 5. Loguearse en la esquina superior derecha de UnityHub con la cuenta creada.
-6. En el mismo lugar apretar de "License Management/Manage Licenses", apretar el botón "Activate New License" y elegir una licencia para uso personal (Unity Personal y elegir la opción "I don't use Unity in a professional capacity".
+6. En el mismo lugar apretar "License Management/Manage Licenses", luego apretar el botón "Activate New License" y elegir una licencia para uso personal (elegir Unity Personal con la opción "I don't use Unity in a professional capacity".
 
 ## IDE/editor de programas
 Para programar tu AI vas a necesitar un entorno de desarrollo integrado (Integrated Development Environment = IDE) donde escribirás tu programa:
