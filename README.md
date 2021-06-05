@@ -2,7 +2,7 @@
 
 
 ## Unity
-Unity es el motor de simulación que usaremos en la competencia. Para instalar el entorno de desarrollo Unity seguí los siguientes pasos:
+Unity es el motor de simulación que usaremos en la competencia. Para instalar Unity seguí los siguientes pasos:
 
 1. Descargar [UnityHub](https://unity3d.com/get-unity/download) e instalarlo.
 2. En la pestaña Installs de UnityHub clickear el botón "ADD" y elegir "2018.4.35f1(LTS)" (es muy importante elegir esta versión de Unity).
