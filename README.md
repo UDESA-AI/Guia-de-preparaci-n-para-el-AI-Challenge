@@ -23,7 +23,7 @@ Otras opciones populares de IDE son: [Rider de jetbrains](https://www.jetbrains.
 ## Discord
 Todas las comunicaciones oficiales así como también el vinculo con los tutores se hará mediante [discord](https://discord.com/). Durante el Kickoff del AI Challenge te daremos el link al servidor de Discord.
 
-### Video de Instalación
+## Video de Instalación
 
 Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde se vé como proceder.
 
