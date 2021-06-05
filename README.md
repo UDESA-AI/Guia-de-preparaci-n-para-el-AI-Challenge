@@ -25,7 +25,7 @@ Todas las comunicaciones oficiales así como también el vinculo con los tutores
 
 ## Video de Instalación
 
-Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde se vé como proceder.
+Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde te explicamos cómo hacerlo.
 
 ## Tutorial C#
 
