@@ -1,18 +1,17 @@
-# Guia de preparación para el AI Challenge
+# Guia de preparación para el UdeSA AI Challenge
 
 
 ## Unity
 Unity es el motor de simulación que usaremos en la competencia. Para instalar el entorno de desarrollo Unity seguí los siguientes pasos:
 
 1. Descargar [UnityHub](https://unity3d.com/get-unity/download) e instalarlo.
-2. En la pestaña Installs de UnityHub clicar ADD y elegir "2018.4.35f1(LTS)"
+2. En la pestaña Installs de UnityHub clickear el botón "ADD" y elegir "2018.4.35f1(LTS)" (es muy importante elegir esta versión de Unity).
 3. Elegir NEXT y luego DONE pues no usaremos ningún módulo adicional.
-4. Crear una cuenta [Unity ID](https://id.unity.com/account/new) .
+4. Crear una cuenta [Unity ID](https://id.unity.com/account/new).
 5. Loguearse en la esquina superior derecha de UnityHub con la cuenta creada.
-6. En el mismo lugar dentro de manage license elegir una licencia para uso personal.
+6. En el mismo lugar apretar de "License Management/Manage Licenses", apretar el botón "Activate New License" y elegir una licencia para uso personal (Unity Personal y elegir la opción "I don't use Unity in a professional capacity".
 
-   
-## IDE/editor de texto
+## IDE/editor de programas
 Para programar tu AI vas a necesitar un entorno de desarrollo integrado (IDE) donde escribirás tu programa:
 
 Recomendamos Visual Studio Code por ser liviano y simple:
@@ -21,9 +20,12 @@ Recomendamos Visual Studio Code por ser liviano y simple:
 
 Otras opciones populares de IDE son: [Rider de jetbrains](https://www.jetbrains.com/es-es/rider/) y para Windows o mac, [Microsoft visual studio](https://visualstudio.microsoft.com/es/) 
 
-
 ## Discord
 Todas las comunicaciones oficiales así como también el vinculo con los tutores se hará mediante [discord](https://discord.com/). Durante el Kickoff del AI Challenge te daremos el link al servidor de Discord.
+
+### Video de Instalación
+
+Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde se vé como proceder.
 
 ## Tutorial C#
 
@@ -37,6 +39,4 @@ Si bien el Tutor puede ayudarte a convertir tu estrategia de juego en código, e
 
 [Tutorial en Ingles](https://youtu.be/gfkTfcpWqAY?t=1125) explica un poco de variables, sintaxis y operadores
 
-### Video de Instalación
 
-Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde se vé como proceder.
