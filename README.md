@@ -37,4 +37,6 @@ El tutor te va a ayudar con todas las duda que tengas de como convertir tu idea 
 
 [Tutorial en Ingles](https://youtu.be/gfkTfcpWqAY?t=1125) explica un poco de variables, sintaxis y operadores
 
+### Video de Instalación
 
+Si te trabaste en algún paso tenemos un [video](https://youtu.be/bGUSJax_osQ) donde se vé como proceder.
